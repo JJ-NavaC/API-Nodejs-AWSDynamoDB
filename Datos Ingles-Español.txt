@@ -1,0 +1,241 @@
+//INGLES
+[
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "2",
+    "content": "Segunda Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "1",
+    "username": "Oscar",
+    "id": "13",
+    "content": "Hola Mundo2",
+    "publication_date": "04/05/2022",
+    "destined_career": "Gastronomia"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "8",
+    "content": "Octava Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "Erick",
+    "id": "9",
+    "content": "Hola Mundo",
+    "publication_date": "04/05/2022",
+    "destined_career": "Electronica"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "1",
+    "content": "Primera Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "6",
+    "content": "Sexta Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "5",
+    "content": "Quinta Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "4",
+    "content": "Cuarta Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "7",
+    "content": "Septima Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "Oscar",
+    "id": "11",
+    "content": "Prueba",
+    "publication_date": "19/04/2022",
+    "destined_career": "Gestion"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "3",
+    "content": "Tercera Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "Erick",
+    "id": "12",
+    "content": "Prueba",
+    "publication_date": "04/05/2022",
+    "destined_career": "Electronica"
+  },
+  {
+    "department": "Desarrollador",
+    "reactions": "0",
+    "username": "NavaRQ",
+    "id": "10",
+    "content": "Decima Publicacion",
+    "publication_date": "19/04/2022",
+    "destined_career": "Sistemas"
+  }
+]
+
+// ESPAÑOL
+[
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "2",
+    "contenido": "Segunda Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "1",
+    "nombre_del_usuario": "Oscar",
+    "id": "13",
+    "contenido": "Hola Mundo2",
+    "fecha_de_publicacion": "04/05/2022",
+    "carrera_destinada": "Gastronomia"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "8",
+    "contenido": "Octava Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "Erick",
+    "id": "9",
+    "contenido": "Hola Mundo",
+    "fecha_de_publicacion": "04/05/2022",
+    "carrera_destinada": "Electronica"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "1",
+    "contenido": "Primera Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "6",
+    "contenido": "Sexta Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "5",
+    "contenido": "Quinta Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "4",
+    "contenido": "Cuarta Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "7",
+    "contenido": "Septima Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "Oscar",
+    "id": "11",
+    "contenido": "Prueba",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Gestion"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "3",
+    "contenido": "Tercera Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "Erick",
+    "id": "12",
+    "contenido": "Prueba",
+    "fecha_de_publicacion": "04/05/2022",
+    "carrera_destinada": "Electronica"
+  },
+  {
+    "departamento": "Desarrollador",
+    "reacciones": "0",
+    "nombre_del_usuario": "NavaRQ",
+    "id": "10",
+    "contenido": "Decima Publicacion",
+    "fecha_de_publicacion": "19/04/2022",
+    "carrera_destinada": "Sistemas"
+  }
+]
